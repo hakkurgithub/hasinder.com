@@ -1,0 +1,97 @@
+[28-Mar-2026 22:55:31 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/icra-kurullari.php on line 21
+[28-Mar-2026 22:55:41 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/icra-kurullari.php on line 21
+[28-Mar-2026 22:55:50 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/icra-kurullari.php on line 21
+[28-Mar-2026 23:58:47 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'b.basvuru_tarihi' in 'ORDER BY' in /home/hasinder/public_html/admin/is-basvurulari.php:28
+Stack trace:
+#0 /home/hasinder/public_html/admin/is-basvurulari.php(28): PDO->prepare('SELECT b.*,ik.k...')
+#1 {main}
+  thrown in /home/hasinder/public_html/admin/is-basvurulari.php on line 28
+[28-Mar-2026 23:58:55 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'b.basvuru_tarihi' in 'ORDER BY' in /home/hasinder/public_html/admin/is-basvurulari.php:28
+Stack trace:
+#0 /home/hasinder/public_html/admin/is-basvurulari.php(28): PDO->prepare('SELECT b.*,ik.k...')
+#1 {main}
+  thrown in /home/hasinder/public_html/admin/is-basvurulari.php on line 28
+[29-Mar-2026 00:02:24 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'b.basvuru_tarihi' in 'ORDER BY' in /home/hasinder/public_html/admin/is-basvurulari.php:28
+Stack trace:
+#0 /home/hasinder/public_html/admin/is-basvurulari.php(28): PDO->prepare('SELECT b.*,ik.k...')
+#1 {main}
+  thrown in /home/hasinder/public_html/admin/is-basvurulari.php on line 28
+[29-Mar-2026 00:02:25 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'b.basvuru_tarihi' in 'ORDER BY' in /home/hasinder/public_html/admin/is-basvurulari.php:28
+Stack trace:
+#0 /home/hasinder/public_html/admin/is-basvurulari.php(28): PDO->prepare('SELECT b.*,ik.k...')
+#1 {main}
+  thrown in /home/hasinder/public_html/admin/is-basvurulari.php on line 28
+[29-Mar-2026 00:02:26 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'b.basvuru_tarihi' in 'ORDER BY' in /home/hasinder/public_html/admin/is-basvurulari.php:28
+Stack trace:
+#0 /home/hasinder/public_html/admin/is-basvurulari.php(28): PDO->prepare('SELECT b.*,ik.k...')
+#1 {main}
+  thrown in /home/hasinder/public_html/admin/is-basvurulari.php on line 28
+[29-Mar-2026 00:07:03 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/is-basvurulari.php on line 8
+[29-Mar-2026 00:07:49 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/is-basvurulari.php on line 8
+[29-Mar-2026 00:11:32 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/is-basvurulari.php on line 8
+[29-Mar-2026 00:15:10 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/is-basvurulari.php on line 8
+[29-Mar-2026 00:15:41 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/is-basvurulari.php on line 8
+[29-Mar-2026 00:15:55 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/is-basvurulari.php on line 8
+[29-Mar-2026 00:16:23 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/is-basvurulari.php on line 8
+[29-Mar-2026 01:20:20 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ik.olusturma_tarihi' in 'ORDER BY' in /home/hasinder/public_html/admin/icra-kurullari.php:25
+Stack trace:
+#0 /home/hasinder/public_html/admin/icra-kurullari.php(25): PDO->query('\n    SELECT ik....')
+#1 {main}
+  thrown in /home/hasinder/public_html/admin/icra-kurullari.php on line 25
+[29-Mar-2026 01:23:06 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ik.olusturma_tarihi' in 'ORDER BY' in /home/hasinder/public_html/admin/icra-kurullari.php:25
+Stack trace:
+#0 /home/hasinder/public_html/admin/icra-kurullari.php(25): PDO->query('\n    SELECT ik....')
+#1 {main}
+  thrown in /home/hasinder/public_html/admin/icra-kurullari.php on line 25
+[29-Mar-2026 01:23:29 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ik.olusturma_tarihi' in 'ORDER BY' in /home/hasinder/public_html/admin/icra-kurullari.php:25
+Stack trace:
+#0 /home/hasinder/public_html/admin/icra-kurullari.php(25): PDO->query('\n    SELECT ik....')
+#1 {main}
+  thrown in /home/hasinder/public_html/admin/icra-kurullari.php on line 25
+[29-Mar-2026 01:23:32 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/is-basvurulari.php on line 7
+[29-Mar-2026 01:23:35 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/is-basvurulari.php on line 7
+[29-Mar-2026 01:23:42 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ik.olusturma_tarihi' in 'ORDER BY' in /home/hasinder/public_html/admin/icra-kurullari.php:25
+Stack trace:
+#0 /home/hasinder/public_html/admin/icra-kurullari.php(25): PDO->query('\n    SELECT ik....')
+#1 {main}
+  thrown in /home/hasinder/public_html/admin/icra-kurullari.php on line 25
+[29-Mar-2026 16:26:31 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/icra-kurullari.php on line 7
+[29-Mar-2026 17:58:36 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/icra-kurullari.php on line 7
+[29-Mar-2026 17:58:38 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/icra-kurullari.php on line 7
+[30-Mar-2026 23:59:07 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/is-basvuru-detay.php on line 7
+[30-Mar-2026 23:59:16 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/is-basvuru-detay.php on line 7
+[31-Mar-2026 00:13:29 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ik.komisyon_orani' in 'SELECT' in /home/hasinder/public_html/admin/is-basvurulari.php:28
+Stack trace:
+#0 /home/hasinder/public_html/admin/is-basvurulari.php(28): PDO->prepare('SELECT b.*,ik.k...')
+#1 {main}
+  thrown in /home/hasinder/public_html/admin/is-basvurulari.php on line 28
+[31-Mar-2026 00:13:35 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ik.komisyon_orani' in 'SELECT' in /home/hasinder/public_html/admin/is-basvurulari.php:28
+Stack trace:
+#0 /home/hasinder/public_html/admin/is-basvurulari.php(28): PDO->prepare('SELECT b.*,ik.k...')
+#1 {main}
+  thrown in /home/hasinder/public_html/admin/is-basvurulari.php on line 28
+[31-Mar-2026 00:15:53 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ik.komisyon_orani' in 'SELECT' in /home/hasinder/public_html/admin/is-basvurulari.php:28
+Stack trace:
+#0 /home/hasinder/public_html/admin/is-basvurulari.php(28): PDO->prepare('SELECT b.*,ik.k...')
+#1 {main}
+  thrown in /home/hasinder/public_html/admin/is-basvurulari.php on line 28
+[31-Mar-2026 00:19:12 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/is-basvuru-detay.php on line 7
+[31-Mar-2026 00:19:53 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/is-basvuru-detay.php on line 7
+[31-Mar-2026 00:20:41 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/is-basvuru-detay.php on line 7
+[31-Mar-2026 00:23:36 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/hasinder/public_html/admin/is-basvuru-detay.php on line 7
+[12-Apr-2026 23:43:00 Europe/Istanbul] PHP Notice:  Undefined index: komisyon_orani in /home/hasinder/public_html/admin/kurul-uyeleri.php on line 162
+[13-Apr-2026 21:41:04 Europe/Istanbul] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/hasinder/public_html/admin/index.php on line 18
+[13-Apr-2026 21:41:04 Europe/Istanbul] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/hasinder/public_html/admin/index.php on line 18
+[13-Apr-2026 21:41:04 Europe/Istanbul] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hasinder/public_html/admin/index.php on line 18
+[13-Apr-2026 21:41:37 Europe/Istanbul] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/hasinder/public_html/admin/index.php on line 18
+[13-Apr-2026 21:41:37 Europe/Istanbul] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/hasinder/public_html/admin/index.php on line 18
+[13-Apr-2026 21:41:37 Europe/Istanbul] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hasinder/public_html/admin/index.php on line 18
+[13-Apr-2026 21:41:38 Europe/Istanbul] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/hasinder/public_html/admin/index.php on line 18
+[13-Apr-2026 21:41:38 Europe/Istanbul] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/hasinder/public_html/admin/index.php on line 18
+[13-Apr-2026 21:41:38 Europe/Istanbul] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hasinder/public_html/admin/index.php on line 18
+[13-Apr-2026 21:42:05 Europe/Istanbul] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/hasinder/public_html/admin/ilanlar.php on line 108
+[13-Apr-2026 21:42:05 Europe/Istanbul] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/hasinder/public_html/admin/ilanlar.php on line 108
+[13-Apr-2026 21:42:05 Europe/Istanbul] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hasinder/public_html/admin/ilanlar.php on line 108
+[13-Apr-2026 21:45:15 Europe/Istanbul] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/hasinder/public_html/admin/ilanlar.php on line 108
+[13-Apr-2026 21:45:15 Europe/Istanbul] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/hasinder/public_html/admin/ilanlar.php on line 108
+[13-Apr-2026 21:45:15 Europe/Istanbul] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hasinder/public_html/admin/ilanlar.php on line 108
